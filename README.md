@@ -40,4 +40,4 @@ A full-featured desktop application built with the .NET Framework, implementing 
        GO
        RESTORE DATABASE [DVLD]
        FROM DISK = N'C:\Path\To\DVLD.bak' <!--Make sure about the path where you put the Database--> 
-       GO```
+       GO

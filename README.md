@@ -36,9 +36,7 @@ A full-featured desktop application built with the .NET Framework, implementing 
        GO
        RESTORE DATABASE [DVLD]
        FROM DISK = N'C:\Path\To\DVLD.bak' <!--Make sure about the path where you put the Database--> 
-       GO
-   ```.
-
+       GO```
 5.  Update the connection string in the `DVLD_DataAccess -> clsDataAccessSettings` project.
 6.  Set the `DVLD_PresentationLayer1` project as the startup project.
 7.  Build and run the application.

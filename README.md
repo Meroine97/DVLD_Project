@@ -31,13 +31,13 @@ A full-featured desktop application built with the .NET Framework, implementing 
 1.  Clone this repository.
 2.  Open the `DVLD_Project.sln` file in Visual Studio.
 3.  Restore NuGet packages.
-4.  Install SQL Server 'SSMS' then run the sql script to restore database
-   ``` USE [master];
-       GO
-       RESTORE DATABASE [DVLD]
-       FROM DISK = N'C:\Path\To\DVLD.bak' <!--Make sure about the path where you put the Database--> 
-       GO```
+4.  Install SQL Server 'SSMS' then run the sql script to restore database check script above.
 5.  Update the connection string in the `DVLD_DataAccess -> clsDataAccessSettings` project.
 6.  Set the `DVLD_PresentationLayer1` project as the startup project.
 7.  Build and run the application.
 8.  You can run the application without needing of `Remember Me` feature.
+  ``` USE [master];
+       GO
+       RESTORE DATABASE [DVLD]
+       FROM DISK = N'C:\Path\To\DVLD.bak' <!--Make sure about the path where you put the Database--> 
+       GO```

@@ -38,7 +38,7 @@ namespace DVLD_Business
             _Mode = enMode.Update;
         }
 
-        // Also here i make an update
+        // before we add a user we have to encrypt his password
         private bool _AddNewUser()
         {
             this.Password = clsSHA256.ComputeHash(this.Password);
@@ -49,7 +49,7 @@ namespace DVLD_Business
             return (this.UserID != -1);
         }
 
-        // I make an update here
+        // The same thing for updating, the password should be encrypted
         private bool _UpdateUser()
         {
             this.Password = clsSHA256.ComputeHash(this.Password);

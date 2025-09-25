@@ -9,7 +9,7 @@ namespace DVLD_DataAccess
     public class clsDataAccessSettings
     {
 
-        public static string ConnectionString = "Server=.; DataBase = DVLD; User Id = sa; Password = sa12345678";
+        public static string ConnectionString = "Server=.; Database = DVLD; User Id = sa; Password = sa12345678";
 
     }
 }

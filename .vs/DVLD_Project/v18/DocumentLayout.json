@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\DVLD_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22ED222E-5A6B-42A6-97AF-8A45C3589720}|DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\dell\\source\\repos\\dvld_project\\dvld_dataaccess\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22ED222E-5A6B-42A6-97AF-8A45C3589720}|DVLD_DataAccess\\DVLD_DataAccess.csproj|solutionrelative:dvld_dataaccess\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34220F31-3066-42CC-9919-57835C7D5B27}|DVLD_PresentationLayer1\\DVLD_PresentationLayer.csproj|c:\\users\\dell\\source\\repos\\dvld_project\\dvld_presentationlayer1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34220F31-3066-42CC-9919-57835C7D5B27}|DVLD_PresentationLayer1\\DVLD_PresentationLayer.csproj|solutionrelative:dvld_presentationlayer1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\DVLD_Project\\DVLD_PresentationLayer1\\Program.cs",
-              "RelativeDocumentMoniker": "DVLD_PresentationLayer1\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\DVLD_Project\\DVLD_PresentationLayer1\\Program.cs",
-              "RelativeToolTip": "DVLD_PresentationLayer1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\DVLD_Project\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\DVLD_Project\\DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "DVLD_DataAccess\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T15:10:26.412Z",
+              "WhenOpened": "2025-09-25T16:33:38.655Z",
               "EditorCaption": ""
             },
             {
@@ -36,6 +40,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\DVLD_Project\\DVLD_PresentationLayer1\\Program.cs",
+              "RelativeDocumentMoniker": "DVLD_PresentationLayer1\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\DVLD_Project\\DVLD_PresentationLayer1\\Program.cs",
+              "RelativeToolTip": "DVLD_PresentationLayer1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:26:02.741Z",
+              "EditorCaption": ""
             }
           ]
         }
